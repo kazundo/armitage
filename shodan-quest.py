@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Author:   code rewritten by kazundo
+# Author:   code rewritten by kazundo goda
 # Email:    ekaniyv@gmail.com
 # Author:   Naqwada (RuptureFarm 1029) <naqwada@protonmail.com>
 # License:  MIT License (http://www.opensource.org/licenses/mit-license.php)
